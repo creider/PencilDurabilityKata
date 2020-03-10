@@ -1,4 +1,4 @@
-#What is this?
+# What is this?
 This is a project to simulate writing on paper with a pencil. Text can be edited, erased, or added as long as the pencil has durability remaining.   The main purpose of this excercise is to show how TDD is done
 
 
